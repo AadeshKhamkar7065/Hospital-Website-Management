@@ -1,0 +1,19 @@
+body{
+    box-sizing: 50px;
+    background-attachment: inherit;
+    background-color: aqua;
+    border: 30px;
+}
+.text{
+    text-align: center;
+    box-sizing: 50px;
+}
+.but{
+    text-align: center;
+    margin: 50px;
+    padding: 50px;
+    cursor: pointer;
+    color: blanchedalmond;
+    z-index: index -2; ;
+}
+
